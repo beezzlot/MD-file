@@ -181,6 +181,6 @@ $ sudo apt remove chromium
 5)  При условии наличия интернета, все расширения просто бы установились через
 Google Store. В нашем случае разберем инструмент оффлайн установки.
 
-![File Name](./Extensions for Chromium.rar)
+![Файл](./Extensions for Chromium.rar)
 
 ---------------------
