@@ -311,6 +311,6 @@ pdp-ls -M /etc/fstab
 
 
 # Дополнительная информация:
-1) Немного про SUID, SGID и Sticky-Bit [Ссылка](https://ruvds.com/ru/helpcenter/suid-sgid-sticky-bit-linux/)
-2) Немного про ACL в Linux [Ссылка](https://wiki.archlinux.org/title/Access_Control_Lists_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9))
-3) Документация на chattr [Ссылка](https://www.opennet.ru/man.shtml?topic=chattr&category=1&russian=0)
+1) Видео про МКЦ в Astra Linux 1.7 [Ссылка](https://www.youtube.com/watch?v=7sEYcPZCcfA&t=6s)
+2) Как работать с МКЦ?  [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=9011270)
+3) Уровни конфиденциальности [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=27362553)
