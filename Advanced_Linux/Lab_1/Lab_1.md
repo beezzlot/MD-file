@@ -233,3 +233,4 @@ AstraLinux 1.7 поддерживает виртуализацию KVM.
 2) Информация о уровнях конфиденциальности [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=27362553)
 3) Подборка материалов по Системам защиты информации в Astra Linux [Ссылка](https://telegra.ph/Podborka-materialov-po-SZI-Astra-Linux-11-25)
 4) Документация [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=137563555)
+5) Как переключать режимы защищенности в Astra Linux? [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=109020865)
