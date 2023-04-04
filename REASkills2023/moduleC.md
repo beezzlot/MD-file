@@ -141,7 +141,12 @@
 | CLI1, CLI2, CLI	| Astra linux |
 
 
+# Топология L1
+![text](./moduleC-l1.png)
 
+
+# Топология L3
+![text](./moduleC-l3.png)
 
    
 
