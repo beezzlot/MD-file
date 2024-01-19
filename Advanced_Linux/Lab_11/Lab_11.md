@@ -259,5 +259,5 @@ aureport --start 07/15/2023 00:00:00 --end 09/12/2023 00:00:00
 1) Auditd - документация от RedHat [Ссылка](https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/7/html/security_guide/sec-defining_audit_rules_and_controls)
 2) Настройка auditd для обнаружения и расследования инцидентов  [Ссылка](https://habr.com/ru/articles/553036/)
 3) Настройка и аудит системы Linux с помощью демона Auditd [Ссылка](https://1cloud.ru/help/security/audit-linux-c-pomoshju-auditd)
-
+4) Аудит системных вызовов [Ссылка](https://habr.com/ru/companies/selectel/articles/267833/)
 
