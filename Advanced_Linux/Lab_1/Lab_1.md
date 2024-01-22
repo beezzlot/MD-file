@@ -80,7 +80,7 @@ deb https://dl.astralinux.ru/astra/stable/1.7_x86-64/repository-extended/ 1.7_x8
 Или воспользуйтесь командой:
 
 ```console
-$ sudo astra-ce deb https://dl.astralinux.ru/astra/stable/1.7_x86-64/repository-extended/
+$ sudo astra-ce https://dl.astralinux.ru/astra/stable/1.7_x86-64/repository-extended/
 ```
 И выполните команду переключения в режим Common Edition
 ```console
