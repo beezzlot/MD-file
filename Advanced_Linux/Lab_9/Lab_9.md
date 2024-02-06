@@ -585,7 +585,7 @@ ansible-vault decrypt secret_user.yml user.yml
 
 1) Создайте плейбук, выполняющий следующие задачи:
 
-  * Плейбук разместите по пути - **/etc/ansible/task.playbook**
+  * Плейбук разместите по пути - **/etc/ansible/task.yml**
 
   * Установка пакета htop
 
