@@ -581,6 +581,15 @@ ansible-vault decrypt secret_user.yml user.yml
 Благодарю за чтение и успехов вам в обучении!
 
 
+# Практическая работа
+
+1) Создайте плейбук, выполняющий следующие задачи: 
+
+  * Установка пакета htop
+
+  * Создание пользователя - devops_user с паролем **Qwerty!**. Пароль не должен храниться в плейбуке в открытом виде. 
+
+
 # Дополнительная информация:
 1) Руководство по YAML [Ссылка](https://wiki.merionet.ru/articles/rukovodstvo-po-yaml-vse-chto-vam-nuzhno-znat-za-5-minut)
 2) YAML - что за зверь?  [Ссылка](https://habr.com/ru/articles/710414/)

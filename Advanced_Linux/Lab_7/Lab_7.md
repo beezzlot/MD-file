@@ -228,6 +228,11 @@ sudo systemctl start clean.timer
 ![Картинка](./Screen6.png)
 
 
+# Практическая работа
+
+1) Создайте таймер в /etc/crontab, для выполнения команды "date >> /opt/timefile" после каждой перезагрузки ПК.
+
+
 
 
 # Заключение
