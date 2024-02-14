@@ -1,4 +1,4 @@
-# Лабораторная работа №3. Тема: "Блокировка интерпретатора, системных команд и параметров"
+# Лабораторная работа №4. Тема: "Проверка операционной системы на уязвимости. Основные инструменты"
 Цель работы
 ----------
 
@@ -313,6 +313,5 @@ sudo astra-ptrace-lock enable
 # Дополнительная информация:
 1) Подробнее о системных блокировках [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=153486034#RedBook:AstraLinuxSpecialEdition(%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D0%B5%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5x.7)-%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B0bash)
 2) Список всех команд-блокировок [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=109020865#:~:text=lkrg%20%D0%BD%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82.-,astra%2Dmacros%2Dlock,%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B0%D1%8E%D1%82%D1%81%D1%8F%20%D0%B8%D0%BB%D0%B8%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82%D1%81%D1%8F%20%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8E.)
-3) Astra Linux Red Book [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=153486034)
 
 
