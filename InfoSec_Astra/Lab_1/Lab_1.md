@@ -328,7 +328,7 @@ Sudo (от англ. "superuser do") - это команда в операцио
  Так, например, ФСТЭК рекомендует выполнять следующие настройки:
 
 ```
-Defaults! sudoedit env_delete+="SUDO_EDITOR VISUAL EDITOR
+Defaults! sudoedit env_delete+="SUDO_EDITOR VISUAL EDITOR"
 Cmnd_Alias EDITMOTD=sudoedit /etc/motd
 Defaults! EDIT_MOTD env_delete+="SUDO_EDITOR VISUAL EDITOR"
 user ALL=EDITMOTD
