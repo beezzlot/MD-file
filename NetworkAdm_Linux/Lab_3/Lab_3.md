@@ -205,4 +205,3 @@ systemctl restart nginx
 1) Параметр AstraMode в Apache2 [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=238749508)
 2) Apache2 vs Nginx  [Ссылка](https://habr.com/ru/articles/267721/)
 3) NGINX в Astra Linux [Ссылка](https://wiki.astralinux.ru/pages/viewpage.action?pageId=147162407)
-
