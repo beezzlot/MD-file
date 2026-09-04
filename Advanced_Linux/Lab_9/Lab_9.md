@@ -492,7 +492,6 @@ ansible-vault create secret_pass.yml
 После ввода пароля появится временный файл, где вы смело в открытом виде пишите следующие значения: 
 
 ```
-[vms:vars]
 ansible_ssh_user: "ansible"
 ansible_ssh_pass: "P@ssw0rd"
 ```
